@@ -6,7 +6,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            lc0002 lc = new ();
+            lc0003 lc = new ();
             lc.Solution();
         }
     }
